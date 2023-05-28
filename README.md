@@ -47,8 +47,19 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![9 1](https://github.com/imthiyas19/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120353416/03000955-df5c-4142-97ab-76ed4ed5785a)
+
+
+
+![9 2](https://github.com/imthiyas19/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120353416/ffa67031-60da-443e-ac2f-75bb18a36e42)
+
+
+
+![9 3](https://github.com/imthiyas19/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120353416/85b29bae-8a51-4c09-92b6-d06dc5c6bf3c)
+
+
+### Name:MOHAMMED IMTHIYAS .M
+### Register Number:212222230083
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
